@@ -16,20 +16,4 @@
 	$dvd = new DVD('1004','Titanic','1,000 USD');
 	$dvd->getProduct();
 
-	echo '<hr/>';
-	echo '<pre>';
-	var_dump($product);
-	echo '</pre>';
-	echo '<hr/>';
-	echo '<pre>';
-	var_dump($book);
-	echo '</pre>';
-	echo '<hr/>';
-	echo '<pre>';
-	var_dump($cd);
-	echo '</pre>';
-	echo '<hr/>';
-	echo '<pre>';
-	var_dump($dvd);
-	echo '</pre>';
-	echo '<hr/>';	
+	
